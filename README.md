@@ -4,9 +4,10 @@
 <h1>I'M <span style="color:#00FFFF">KASMIRCO</span>!</h1>
 <h3>💻 1st Year College (Developer / Programmer)</h3>
 
-<p>
-I can build responsive websites and create engaging 3D parallax effects using HTML, CSS, and JavaScript. I also design interfaces using Figma, and I have some basic knowledge of Node.js.
-As an aspiring Full Stack Developer, I’m passionate about the IT industry and believe that one day, I’ll create something truly groundbreaking in the field I’ve chosen. </p>
+<p style="text-align: justify;">
+  I can build fully responsive websites for all devices and create parallax effects using HTML, CSS, and JavaScript. I also design 3D parallax websites using Figma, and I have basic knowledge of Node.js. As an aspiring Full Stack Developer, I’m passionate about the IT industry and believe that one day, I’ll create something truly groundbreaking in the field I’ve chosen.
+</p>
+
 
 ---
 
