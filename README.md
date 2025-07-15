@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/kasmirco/kasmirco/main/banner.JPG" width="100%" alt="Banner" />
 
 <h1>I'M <span style="color:#00FFFF">KASMIRCO</span>!</h1>
-<h3>💻 Digital Craftsman (Developer / Programmer)</h3>
+<h3>💻 1st Year College (Developer / Programmer)</h3>
 
 <p>
   Aspiring Full Stack Developer with a strong passion for <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
