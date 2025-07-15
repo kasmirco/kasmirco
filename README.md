@@ -37,7 +37,6 @@
 
 ---
 
-
 ### 🛠 Tools I Use:
 
 <div align="left">
@@ -48,14 +47,15 @@
 
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="[https://cdn-icons-png.flaticon.com/512/888/888897.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png)" height="35" alt="Photoshop" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="35" alt="Photoshop" />
   </a>
 
   <!-- Framer -->
   <a href="https://www.framer.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" height="35" alt="Framer" />
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" height="35" alt="Framer" />
   </a>
 </div>
+
 
 
 ---
