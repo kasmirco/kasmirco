@@ -5,8 +5,8 @@
 <h3>💻 1st Year College (Developer / Programmer)</h3>
 
 <p>
-  Aspiring Full Stack Developer with a strong passion for <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
-</p>
+I can build responsive websites and create engaging 3D parallax effects using HTML, CSS, and JavaScript. I also design interfaces using Figma, and I have some basic knowledge of Node.js.
+As an aspiring Full Stack Developer, I’m passionate about the IT industry and believe that one day, I’ll create something truly groundbreaking in the field I’ve chosen. </p>
 
 ---
 
