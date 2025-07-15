@@ -10,14 +10,14 @@
 
 ---
 
-### I love working with:
+### 💡 I Love Working With:
 
 <div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
 </div>
 
 ---
@@ -37,7 +37,19 @@
 
 ---
 
-### 📬 How to reach me:
+### 🛠 Tools I Use:
+
+<div align="left">
+  <a href="https://www.figma.com/@costi3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/Adobe_Photoshop_CC_icon.svg" height="35" alt="Photoshop" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-icon-2022.svg" height="35" alt="Framer" />
+</div>
+
+---
+
+### 📬 How to Reach Me:
 
 <div align="left">
   <a href="https://www.instagram.com/kasmir.co/" target="_blank">
@@ -57,8 +69,5 @@
   </a>
   <a href="https://www.tiktok.com/@user306981014?lang=en" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" height="35" alt="TikTok" />
-  </a>
-  <a href="https://www.figma.com/@costi3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
   </a>
 </div>
