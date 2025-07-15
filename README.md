@@ -48,7 +48,7 @@
 
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" height="35" alt="Photoshop" />
+    <img src="[https://cdn-icons-png.flaticon.com/512/888/888897.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png)" height="35" alt="Photoshop" />
   </a>
 
   <!-- Framer -->
