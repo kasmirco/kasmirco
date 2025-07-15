@@ -37,15 +37,26 @@
 
 ---
 
+
 ### 🛠 Tools I Use:
 
 <div align="left">
+  <!-- Figma -->
   <a href="https://www.figma.com/@costi3" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/Adobe_Photoshop_CC_icon.svg" height="35" alt="Photoshop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-icon-2022.svg" height="35" alt="Framer" />
+
+  <!-- Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" height="35" alt="Photoshop" />
+  </a>
+
+  <!-- Framer -->
+  <a href="https://www.framer.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" height="35" alt="Framer" />
+  </a>
 </div>
+
 
 ---
 
