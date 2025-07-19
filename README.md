@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/kasmirco/kasmirco/main/banner.JPG" width="100%" alt="Banner" />
+<img src="https://raw.githubusercontent.com/kasmirco/kasmirco/main/new-banner" width="100%" alt="Banner" />
 
 <h1 align="left">I'M <span style="color:#00FFFF">KASMIRCO</span>!</h1>
 <h3 align="left">💻 1st Year College (Developer / Programmer)</h3>
