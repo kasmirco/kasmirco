@@ -23,27 +23,19 @@
 ---
 
 ### 🙋‍♂️ About Me:
-
 <!-- Section with text on left and gif on right -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p align="justify">
-      ✨ Student of FEU Tech<br/>
-      🌱 I’m constantly expanding my knowledge — I believe every day is a new chance to grow and learn something valuable.<br/>
-      🎮 Streamer of online games — You can visit my <a href="https://www.facebook.com/KasmirGaming15" target="_blank"><strong>Page</strong></a>.<br/>
-      🤝 I'm looking for help with integrating AI models into web applications.<br/>
-      ❤️ I love doing research and diving deep into the ever-evolving IT industry.<br/>
-      🚀 Currently exploring <strong>JavaScript</strong> and <strong>React</strong> to level up my development skills.<br/>
-      🍽️ Fun fact: I'm a picky eater 😅<br/>
-      💻 Visit my <a href="https://kasmirco.github.io/Resume_USING_HTMLandCSS/" target="_blank"><strong>Portfolio</strong></a> to learn more about me.
-    </p>
-  </div>
-  
-  <div style="flex: 1; text-align: center;">
-    <img src="https://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="200px" />
-  </div>
-</div>
+<div align="left">
+  <img align="right" src="https://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="200px" />
 
+  ✨ Student of FEU Tech<br/>
+  🌱 I’m constantly expanding my knowledge — I believe every day is a new chance to grow and learn something valuable.<br/>
+  🎮 Streamer of online games — You can visit my <a href="https://www.facebook.com/KasmirGaming15" target="_blank"><strong>Page</strong></a>.<br/>
+  🤝 I'm looking for help with integrating AI models into web applications.<br/>
+  ❤️ I love doing research and diving deep into the ever-evolving IT industry.<br/>
+  🚀 Currently exploring <strong>JavaScript</strong> and <strong>React</strong> to level up my development skills.<br/>
+  🍽️ Fun fact: I'm a picky eater 😅<br/>
+  💻 Visit my <a href="https://kasmirco.github.io/Resume_USING_HTMLandCSS/" target="_blank"><strong>Portfolio</strong></a> to learn more about me.
+</div>
 
 ---
 
