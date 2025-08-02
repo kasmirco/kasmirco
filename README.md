@@ -69,25 +69,31 @@
 
 ---
 
+<!-- How to Reach Me: -->
 ### 📬 How to Reach Me:
-
 <div align="left">
-  <a href="https://www.instagram.com/kasmir.co/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram" />
+  <a href="https://www.instagram.com/kasmir.co/" target="_blank" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://x.com/KasmirCo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35" alt="Twitter" />
+  <a href="https://x.com/KasmirCo" target="_blank" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35" alt="Twitter" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://t.me/KasmirCo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="35" alt="Telegram" />
+  <a href="https://t.me/KasmirCo" target="_blank" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="35" alt="Telegram" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.linkedin.com/in/john-kenneth-costinar-517a89371/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/john-kenneth-costinar-517a89371/" target="_blank" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.facebook.com/johnkenneth.costinar.3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" alt="Facebook" />
+  <a href="https://www.facebook.com/johnkenneth.costinar.3" target="_blank" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" alt="Facebook" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.tiktok.com/@user306981014?lang=en" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" height="35" alt="TikTok" />
+  <a href="https://www.tiktok.com/@user306981014?lang=en" target="_blank" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" height="35" alt="TikTok" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
