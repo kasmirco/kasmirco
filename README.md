@@ -1,10 +1,10 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/kasmirco/kasmirco/main/New-banner.png" width="100%" alt="Banner" />
 
-<h1 align="left">I'M <span style="color:#00FFFF">KASMIRCO</span>!</h1>
-<h3 align="left">💻 1st Year College (Developer / Programmer)</h3>
+# I'M <span style="color:#00FFFF">KASMIRCO</span>!
+### 💻 1st Year College (Developer / Programmer)
 
-<p style="text-align: justify;">
+<p align="justify">
   I can build fully responsive websites for all devices and create parallax effects using HTML, CSS, and JavaScript. I also design 3D parallax websites using Figma, and I have basic knowledge of Node.js. As an aspiring Full Stack Developer, I’m passionate about the IT industry and believe that one day, I’ll create something truly groundbreaking in the field I’ve chosen.
 </p>
 
@@ -23,21 +23,20 @@
 ---
 
 ### 🙋‍♂️ About Me:
+
 <!-- Section with text on left and gif on right -->
 <div align="left">
   <img align="right" src="https://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="200px" />
 
   ✨ Student of FEU Tech<br/>
   🌱 I’m constantly expanding my knowledge — I believe every day is a new chance to grow and learn something valuable.<br/>
-  🎮 Streamer of online games — You can visit my <a href="https://www.facebook.com/KasmirGaming15" target="_blank"><strong>Page</strong></a>.<br/>
+  🎮 Streamer of online games — You can visit my [Page](https://www.facebook.com/KasmirGaming15).<br/>
   🤝 I'm looking for help with integrating AI models into web applications.<br/>
   ❤️ I love doing research and diving deep into the ever-evolving IT industry.<br/>
-  🚀 Currently exploring <strong>JavaScript</strong> and <strong>React</strong> to level up my development skills.<br/>
+  🚀 Currently exploring **JavaScript** and **React** to level up my development skills.<br/>
   🍽️ Fun fact: I'm a picky eater 😅<br/>
-  💻 Visit my <a href="https://kasmirco.github.io/Resume_USING_HTMLandCSS/" target="_blank"><strong>Portfolio</strong></a> to learn more about me.
+  💻 Visit my [Portfolio](https://kasmirco.github.io/Resume_USING_HTMLandCSS/) to learn more about me.
 </div>
-
-
 
 ---
 
@@ -59,8 +58,6 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" height="35" alt="Framer" />
   </a>
 </div>
-
-
 
 ---
 
