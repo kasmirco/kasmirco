@@ -43,7 +43,7 @@
   ❤️ I love doing research and diving deep into the ever-evolving IT industry.<br/>
   🚀 Currently exploring <strong>JavaScript</strong> and <strong>React</strong> to level up my development skills.<br/>
   🍽️ Fun fact: I'm a picky eater 😅<br/>
-  💻 Visit my <a href="https://kasmirco.github.io/JKC/" target="_blank"><strong> Portfolio</strong></a>
+  💻 Visit my <a href="https://john-kenneth-costinar.netlify.app/" target="_blank"><strong> Portfolio</strong></a>
  to learn more about me.
 </div>
 
