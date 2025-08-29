@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/kasmirco/kasmirco/main/New-banner.png" width="100%" alt="Banner" />
 
 # I'M <span style="color:#00FFFF">KASMIRCO</span>!
-### 💻 1st Year College (Developer / Programmer)
+### 💻 2nd Year College (Developer / Programmer)
 
 <p align="justify">
   I can build fully responsive websites for all devices and create parallax effects using HTML, CSS, and JavaScript. I also design 3D parallax websites using Figma, and I have basic knowledge of Node.js. As an aspiring Full Stack Developer, I’m passionate about the IT industry and believe that one day, I’ll create something truly groundbreaking in the field I’ve chosen.
