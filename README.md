@@ -13,18 +13,65 @@
 <!-- I Love Working With: -->
 ### 💡 I Love Working With:
 <div align="left"> 
+  <!-- HTML5 -->
   <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" 
     style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <img width="12" />
+
+  <!-- CSS3 -->
   <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" 
     style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <img width="12" />
+
+  <!-- JavaScript -->
   <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <img width="12" />
+
+  <!-- C++ -->
+  <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <img width="12" />
+
+  <!-- C# -->
+  <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <img width="12" />
+
+  <!-- Java -->
+  <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <img width="12" />
+
+  <!-- MySQL -->
+  <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <img width="12" />
+
+  <!-- Oracle -->
+  <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle logo" 
+    style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <img width="12" />
+
+  <!-- React Native -->
+  <a href="#" style="transition: transform 0.3s ease; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native logo" 
     style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
